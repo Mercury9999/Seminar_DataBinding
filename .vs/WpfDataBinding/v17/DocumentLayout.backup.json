@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\dev\\csharp\\WpfDataBinding\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{29F954E0-1E36-4091-969D-D8207ECAD75B}|TextBoxBinding\\TextBoxBinding.csproj|d:\\dev\\csharp\\wpfdatabinding\\textboxbinding\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{29F954E0-1E36-4091-969D-D8207ECAD75B}|TextBoxBinding\\TextBoxBinding.csproj|solutionrelative:textboxbinding\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{59117937-CBE5-4444-8422-766E6AFE23BA}|inotify_intefaceImplement\\inotify_intefaceImplement.csproj|d:\\dev\\csharp\\wpfdatabinding\\inotify_intefaceimplement\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59117937-CBE5-4444-8422-766E6AFE23BA}|inotify_intefaceImplement\\inotify_intefaceImplement.csproj|solutionrelative:inotify_intefaceimplement\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29F954E0-1E36-4091-969D-D8207ECAD75B}|TextBoxBinding\\TextBoxBinding.csproj|d:\\dev\\csharp\\wpfdatabinding\\textboxbinding\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29F954E0-1E36-4091-969D-D8207ECAD75B}|TextBoxBinding\\TextBoxBinding.csproj|solutionrelative:textboxbinding\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{59117937-CBE5-4444-8422-766E6AFE23BA}|inotify_intefaceImplement\\inotify_intefaceImplement.csproj|d:\\dev\\csharp\\wpfdatabinding\\inotify_intefaceimplement\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{59117937-CBE5-4444-8422-766E6AFE23BA}|inotify_intefaceImplement\\inotify_intefaceImplement.csproj|solutionrelative:inotify_intefaceimplement\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,27 +26,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\dev\\csharp\\WpfDataBinding\\TextBoxBinding\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "TextBoxBinding\\MainWindow.xaml",
-              "ToolTip": "D:\\dev\\csharp\\WpfDataBinding\\TextBoxBinding\\MainWindow.xaml",
-              "RelativeToolTip": "TextBoxBinding\\MainWindow.xaml",
+              "DocumentMoniker": "D:\\dev\\csharp\\WpfDataBinding\\inotify_intefaceImplement\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "inotify_intefaceImplement\\MainWindow.xaml",
+              "ToolTip": "D:\\dev\\csharp\\WpfDataBinding\\inotify_intefaceImplement\\MainWindow.xaml",
+              "RelativeToolTip": "inotify_intefaceImplement\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-31T09:14:56.666Z",
+              "WhenOpened": "2024-10-31T18:21:33.249Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\dev\\csharp\\WpfDataBinding\\TextBoxBinding\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "TextBoxBinding\\MainWindow.xaml.cs",
-              "ToolTip": "D:\\dev\\csharp\\WpfDataBinding\\TextBoxBinding\\MainWindow.xaml.cs",
-              "RelativeToolTip": "TextBoxBinding\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\dev\\csharp\\WpfDataBinding\\inotify_intefaceImplement\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "inotify_intefaceImplement\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\dev\\csharp\\WpfDataBinding\\inotify_intefaceImplement\\MainWindow.xaml.cs",
+              "RelativeToolTip": "inotify_intefaceImplement\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T09:14:56.628Z",
+              "WhenOpened": "2024-10-31T18:21:33.028Z",
               "EditorCaption": ""
             }
           ]

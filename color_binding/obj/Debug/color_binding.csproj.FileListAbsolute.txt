@@ -1,0 +1,15 @@
+D:\dev\csharp\WpfDataBinding\color_binding\obj\Debug\color_binding.csproj.AssemblyReference.cache
+D:\dev\csharp\WpfDataBinding\color_binding\obj\Debug\MainWindow.baml
+D:\dev\csharp\WpfDataBinding\color_binding\obj\Debug\App.g.cs
+D:\dev\csharp\WpfDataBinding\color_binding\obj\Debug\color_binding_MarkupCompile.cache
+D:\dev\csharp\WpfDataBinding\color_binding\obj\Debug\color_binding.g.resources
+D:\dev\csharp\WpfDataBinding\color_binding\obj\Debug\color_binding.Properties.Resources.resources
+D:\dev\csharp\WpfDataBinding\color_binding\obj\Debug\color_binding.csproj.GenerateResource.cache
+D:\dev\csharp\WpfDataBinding\color_binding\obj\Debug\color_binding.csproj.CoreCompileInputs.cache
+D:\dev\csharp\WpfDataBinding\color_binding\bin\Debug\color_binding.exe.config
+D:\dev\csharp\WpfDataBinding\color_binding\bin\Debug\color_binding.exe
+D:\dev\csharp\WpfDataBinding\color_binding\bin\Debug\color_binding.pdb
+D:\dev\csharp\WpfDataBinding\color_binding\obj\Debug\MainWindow.g.cs
+D:\dev\csharp\WpfDataBinding\color_binding\obj\Debug\color_binding_MarkupCompile.lref
+D:\dev\csharp\WpfDataBinding\color_binding\obj\Debug\color_binding.exe
+D:\dev\csharp\WpfDataBinding\color_binding\obj\Debug\color_binding.pdb

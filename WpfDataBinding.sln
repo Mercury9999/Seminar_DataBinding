@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SliderBinding", "SliderBind
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextBoxBinding", "TextBoxBinding\TextBoxBinding.csproj", "{29F954E0-1E36-4091-969D-D8207ECAD75B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "color_binding", "color_binding\color_binding.csproj", "{154E3065-351A-43F7-9420-F191EE7E8E0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "inotify_intefaceImplement", "inotify_intefaceImplement\inotify_intefaceImplement.csproj", "{59117937-CBE5-4444-8422-766E6AFE23BA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{29F954E0-1E36-4091-969D-D8207ECAD75B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{29F954E0-1E36-4091-969D-D8207ECAD75B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{29F954E0-1E36-4091-969D-D8207ECAD75B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{154E3065-351A-43F7-9420-F191EE7E8E0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{154E3065-351A-43F7-9420-F191EE7E8E0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{154E3065-351A-43F7-9420-F191EE7E8E0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{154E3065-351A-43F7-9420-F191EE7E8E0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59117937-CBE5-4444-8422-766E6AFE23BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59117937-CBE5-4444-8422-766E6AFE23BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59117937-CBE5-4444-8422-766E6AFE23BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59117937-CBE5-4444-8422-766E6AFE23BA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

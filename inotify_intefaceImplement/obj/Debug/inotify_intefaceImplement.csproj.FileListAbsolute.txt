@@ -1,0 +1,15 @@
+D:\dev\csharp\WpfDataBinding\inotify_intefaceImplement\obj\Debug\inotify_intefaceImplement.csproj.AssemblyReference.cache
+D:\dev\csharp\WpfDataBinding\inotify_intefaceImplement\obj\Debug\MainWindow.g.cs
+D:\dev\csharp\WpfDataBinding\inotify_intefaceImplement\obj\Debug\App.g.cs
+D:\dev\csharp\WpfDataBinding\inotify_intefaceImplement\obj\Debug\inotify_intefaceImplement_MarkupCompile.cache
+D:\dev\csharp\WpfDataBinding\inotify_intefaceImplement\obj\Debug\inotify_intefaceImplement_MarkupCompile.lref
+D:\dev\csharp\WpfDataBinding\inotify_intefaceImplement\bin\Debug\inotify_intefaceImplement.exe.config
+D:\dev\csharp\WpfDataBinding\inotify_intefaceImplement\bin\Debug\inotify_intefaceImplement.exe
+D:\dev\csharp\WpfDataBinding\inotify_intefaceImplement\bin\Debug\inotify_intefaceImplement.pdb
+D:\dev\csharp\WpfDataBinding\inotify_intefaceImplement\obj\Debug\MainWindow.baml
+D:\dev\csharp\WpfDataBinding\inotify_intefaceImplement\obj\Debug\inotify_intefaceImplement.g.resources
+D:\dev\csharp\WpfDataBinding\inotify_intefaceImplement\obj\Debug\inotify_intefaceImplement.Properties.Resources.resources
+D:\dev\csharp\WpfDataBinding\inotify_intefaceImplement\obj\Debug\inotify_intefaceImplement.csproj.GenerateResource.cache
+D:\dev\csharp\WpfDataBinding\inotify_intefaceImplement\obj\Debug\inotify_intefaceImplement.csproj.CoreCompileInputs.cache
+D:\dev\csharp\WpfDataBinding\inotify_intefaceImplement\obj\Debug\inotify_intefaceImplement.exe
+D:\dev\csharp\WpfDataBinding\inotify_intefaceImplement\obj\Debug\inotify_intefaceImplement.pdb
