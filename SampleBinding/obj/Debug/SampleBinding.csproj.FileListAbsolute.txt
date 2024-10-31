@@ -1,0 +1,15 @@
+D:\dev\csharp\WpfDataBinding\SampleBinding\bin\Debug\SampleBinding.exe.config
+D:\dev\csharp\WpfDataBinding\SampleBinding\bin\Debug\SampleBinding.exe
+D:\dev\csharp\WpfDataBinding\SampleBinding\bin\Debug\SampleBinding.pdb
+D:\dev\csharp\WpfDataBinding\SampleBinding\obj\Debug\SampleBinding.csproj.AssemblyReference.cache
+D:\dev\csharp\WpfDataBinding\SampleBinding\obj\Debug\MainWindow.g.cs
+D:\dev\csharp\WpfDataBinding\SampleBinding\obj\Debug\App.g.cs
+D:\dev\csharp\WpfDataBinding\SampleBinding\obj\Debug\SampleBinding_MarkupCompile.cache
+D:\dev\csharp\WpfDataBinding\SampleBinding\obj\Debug\SampleBinding_MarkupCompile.lref
+D:\dev\csharp\WpfDataBinding\SampleBinding\obj\Debug\MainWindow.baml
+D:\dev\csharp\WpfDataBinding\SampleBinding\obj\Debug\SampleBinding.g.resources
+D:\dev\csharp\WpfDataBinding\SampleBinding\obj\Debug\SampleBinding.Properties.Resources.resources
+D:\dev\csharp\WpfDataBinding\SampleBinding\obj\Debug\SampleBinding.csproj.GenerateResource.cache
+D:\dev\csharp\WpfDataBinding\SampleBinding\obj\Debug\SampleBinding.csproj.CoreCompileInputs.cache
+D:\dev\csharp\WpfDataBinding\SampleBinding\obj\Debug\SampleBinding.exe
+D:\dev\csharp\WpfDataBinding\SampleBinding\obj\Debug\SampleBinding.pdb

@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{9B0D9E17-9AD5-48FB-8AB6-5C918B3A0AEE}</ProjectGuid>
+    <ProjectGuid>{29F954E0-1E36-4091-969D-D8207ECAD75B}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>TextBoxBinding</RootNamespace>
     <AssemblyName>TextBoxBinding</AssemblyName>
@@ -55,7 +55,7 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
-    <Page Include="TextBoxBinding.xaml">
+    <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
@@ -63,8 +63,8 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="TextBoxBinding.xaml.cs">
-      <DependentUpon>TextBoxBinding.xaml</DependentUpon>
+    <Compile Include="MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>

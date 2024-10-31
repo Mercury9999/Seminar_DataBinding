@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{5E48FED5-FEE2-45CD-BB0B-700365123A1A}</ProjectGuid>
+    <ProjectGuid>{CD356447-27C2-440F-B117-9FB25BCC2DB7}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>bd_thongtinSV</RootNamespace>
     <AssemblyName>bd_thongtinSV</AssemblyName>
@@ -55,8 +55,7 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
-    <Compile Include="SinhVien.cs" />
-    <Page Include="bd_thongtinSV.xaml">
+    <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
@@ -64,8 +63,8 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="bd_thongtinSV.xaml.cs">
-      <DependentUpon>bd_thongtinSV.xaml</DependentUpon>
+    <Compile Include="MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>

@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bd_thongtinSV", "bd_thongtinSV\bd_thongtinSV.csproj", "{5E48FED5-FEE2-45CD-BB0B-700365123A1A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleBinding", "SampleBinding\SampleBinding.csproj", "{5508229B-D143-4769-A174-1FAE3B3AA6CC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextBoxBinding", "TextBoxBinding\TextBoxBinding.csproj", "{9B0D9E17-9AD5-48FB-8AB6-5C918B3A0AEE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bd_thongtinSV", "bd_thongtinSV\bd_thongtinSV.csproj", "{CD356447-27C2-440F-B117-9FB25BCC2DB7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SliderBinding", "SliderBinding\SliderBinding.csproj", "{C3F685D6-E8B3-4D39-81CC-9E53B5751D8D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SliderBinding", "SliderBinding\SliderBinding.csproj", "{BEB83222-B53F-4F1E-BC3E-F021087220B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextBoxBinding", "TextBoxBinding\TextBoxBinding.csproj", "{29F954E0-1E36-4091-969D-D8207ECAD75B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,18 +17,22 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{5E48FED5-FEE2-45CD-BB0B-700365123A1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5E48FED5-FEE2-45CD-BB0B-700365123A1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5E48FED5-FEE2-45CD-BB0B-700365123A1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5E48FED5-FEE2-45CD-BB0B-700365123A1A}.Release|Any CPU.Build.0 = Release|Any CPU
-		{9B0D9E17-9AD5-48FB-8AB6-5C918B3A0AEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9B0D9E17-9AD5-48FB-8AB6-5C918B3A0AEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9B0D9E17-9AD5-48FB-8AB6-5C918B3A0AEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9B0D9E17-9AD5-48FB-8AB6-5C918B3A0AEE}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C3F685D6-E8B3-4D39-81CC-9E53B5751D8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C3F685D6-E8B3-4D39-81CC-9E53B5751D8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C3F685D6-E8B3-4D39-81CC-9E53B5751D8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C3F685D6-E8B3-4D39-81CC-9E53B5751D8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5508229B-D143-4769-A174-1FAE3B3AA6CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5508229B-D143-4769-A174-1FAE3B3AA6CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5508229B-D143-4769-A174-1FAE3B3AA6CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5508229B-D143-4769-A174-1FAE3B3AA6CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD356447-27C2-440F-B117-9FB25BCC2DB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD356447-27C2-440F-B117-9FB25BCC2DB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD356447-27C2-440F-B117-9FB25BCC2DB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD356447-27C2-440F-B117-9FB25BCC2DB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEB83222-B53F-4F1E-BC3E-F021087220B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEB83222-B53F-4F1E-BC3E-F021087220B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEB83222-B53F-4F1E-BC3E-F021087220B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEB83222-B53F-4F1E-BC3E-F021087220B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29F954E0-1E36-4091-969D-D8207ECAD75B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29F954E0-1E36-4091-969D-D8207ECAD75B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29F954E0-1E36-4091-969D-D8207ECAD75B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29F954E0-1E36-4091-969D-D8207ECAD75B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

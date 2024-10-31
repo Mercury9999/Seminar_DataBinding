@@ -1,0 +1,60 @@
+﻿<Window x:Class="bd_thongtinSV.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:bd_thongtinSV"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="600">
+    <Window.Resources>
+        <local:SinhVien x:Key="SinhVienA" HoTen="TranLaLuot" Lop="KTPM2023.1"
+                                          NgayNhapHoc="2022-02-16" HocBong="5000"
+                                          ID="23520508" />
+    </Window.Resources>
+    <Grid>
+        <StackPanel DataContext="{StaticResource SinhVienA}">
+            <Label FontSize="32">Sinh Vien</Label>
+            <Border BorderBrush="Gray" BorderThickness="2" />
+            <Grid Grid.Row="1" Margin="5">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+
+                <TextBlock Text="Ho Ten:" Grid.Row="0" Margin="0,0,10,0" />
+                <TextBlock Text="MSSV:" Grid.Row="1" />
+                <TextBlock Text="Lop:" Grid.Row="2" />
+                <TextBlock Text="Nhap hoc:" Grid.Row="3" />
+                <TextBlock Text="Hoc bong" Grid.Row="4" />
+
+                <TextBlock Text="{Binding HoTen}" Grid.Row="0" Grid.Column="1" />
+                <TextBlock Text="{Binding ID}" Grid.Row="1" Grid.Column="1" />
+                <TextBlock Text="{Binding Lop}" Grid.Row="2" Grid.Column="1" />
+                <TextBlock Text="{Binding NgayNhapHoc, StringFormat=d}" Grid.Row="3" Grid.Column="1" RenderTransformOrigin="0.5,0.5" >
+                    <TextBlock.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform/>
+                            <SkewTransform/>
+                            <RotateTransform Angle="-0.381"/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </TextBlock.RenderTransform>
+                </TextBlock>
+                <TextBlock Text="{Binding HocBong, StringFormat=C0}" Grid.Row="4" Grid.Column="1" />
+            </Grid>
+            <Border BorderBrush="Gray" BorderThickness="2" />
+
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="Thay muc hoc bong:" Margin="0,0,10,0" />
+                <TextBox Text="{Binding HocBong, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged, StringFormat=C0}" Width="100" />
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>

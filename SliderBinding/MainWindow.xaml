@@ -5,15 +5,15 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:SliderBinding"
         mc:Ignorable="d"
-        Title="MainWindow" Height="300" Width="500">
+        Title="MainWindow" Height="400" Width="600">
     <Grid>
         <Grid.RowDefinitions>
             <RowDefinition></RowDefinition>
             <RowDefinition></RowDefinition>
             <RowDefinition></RowDefinition>
         </Grid.RowDefinitions>
-        <TextBox Grid.Row="0" Text="{Binding Path=BoundNumber, Mode=TwoWay}"></TextBox>
-        <Slider Grid.Row="1" Value="{Binding Path=BoundNumber, Mode=TwoWay}"></Slider>
-        <Button Grid.Row="2" Content="Reset" Click="Button_Click"></Button>    
+        <TextBox Grid.Row="0" FontSize="100" Text="{Binding Path=BoundNumber, Mode=TwoWay}"></TextBox>
+        <Slider Minimum="1" Maximum="100" Grid.Row="1" Value="{Binding Path=BoundNumber, Mode=TwoWay}"></Slider>
+        <Button Grid.Row="2" Content="Reset" Click="Button_Click"></Button>
     </Grid>
 </Window>
